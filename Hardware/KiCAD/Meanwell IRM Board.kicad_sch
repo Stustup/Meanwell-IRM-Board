@@ -1170,6 +1170,14 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt Nr." "VT FS-P 4,75"
+			(at 71.12 41.275 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "59158460-974c-4216-b537-81679120d620")
 		)
@@ -1566,7 +1574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Reichelt Nr." ""
+		(property "Reichelt Nr." "VT FS-P 4,75"
 			(at 71.12 36.195 0)
 			(effects
 				(font

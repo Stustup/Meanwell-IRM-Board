@@ -600,6 +600,30 @@
           "label": "Reichelt-Nr.",
           "name": "Reichelt-Nr.",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Reichelt Nr.",
+          "name": "Reichelt Nr.",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Nr.",
+          "name": "Mouser Nr.",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Reichelt Link",
+          "name": "Reichelt Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Link",
+          "name": "Mouser Link",
+          "show": false
         }
       ],
       "filter_string": "",
