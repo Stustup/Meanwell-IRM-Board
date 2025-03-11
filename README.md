@@ -10,3 +10,15 @@ two IRM-20-15 in series with GND connected to the "Voltage Conenct" header to ge
 amps and such.
 
 ![Top view of the meanwell board](./Hardware/doc/Meanwell%20IRM%20Board%20Top.png)
+
+## Caution!
+
+Always use an offboard switch and fuse in combination with these boards. There are many combined plug/switch/fuse boards like 
+[these](https://www.mouser.de/ProductDetail/Qualtek/764-00-002?qs=uN5Dye%252BOwiXfVfVI0dfkHA%3D%3D) (there are alwyas cheaper ones).
+
+## TODO
+
+- Place the AC connectors a little bit more intelligently. Now they almost touch the irm modules
+- Place a shared 3 pin connector for directly accessing the bipolar psu
+- power LEDs
+-  
