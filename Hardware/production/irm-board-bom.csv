@@ -1,0 +1,7 @@
+"Reference","Value","Mouser-Nr.","Datasheet","Footprint","Qty","DNP"
+"J1","AC/L","","~","_lib:VT FS-P 4,75","1",""
+"J2","AC/N","","~","_lib:VT FS-P 4,75","1",""
+"J3","V-Combine","","~","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","1",""
+"J4","V1","","~","Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical","1",""
+"J5","V2","","~","Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical","1",""
+"PS1,PS2","IRM-20-15","-- verschiedene Werte --","http://www.meanwell.com/Upload/PDF/IRM-20/IRM-20-SPEC.PDF","_lib:IRM Kombi","2",""
