@@ -21,3 +21,4 @@ Always use an offboard switch and fuse in combination with these boards. There a
 - Place the AC connectors a little bit more intelligently. Now they almost touch the irm modules
 - Place a shared 3 pin connector for directly accessing the bipolar psu
 - power LEDs
+- Power switch (maybe with relays and an optional bypass header)
